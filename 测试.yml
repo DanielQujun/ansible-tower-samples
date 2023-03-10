@@ -5,3 +5,6 @@
       debug:
         msg: "Hello World!"
 
+    - name: "sleep"
+      shell: sleep 360
+
